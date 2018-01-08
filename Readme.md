@@ -10,7 +10,7 @@
 
 
 ```bash
-npm run rct-loader --save-dev
+npm i rct-loader --save-dev
 ```
 
 ```javascript
