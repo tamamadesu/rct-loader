@@ -5,7 +5,7 @@
   <img width="600px" src="./screenshot.jpg">
 </p>
 
-<h2 align="center">Usage</h2>
+<h2>Usage</h2>
 
 
 
@@ -26,5 +26,3 @@ module: {
   ]
 }
 ```
-
-_This project is debugging now，the release version is coming soon !_
